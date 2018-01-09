@@ -6,5 +6,8 @@
 	</head>
 	<body>
 		<h1>This is a page about Tristan Bennett</h1>
+		<p>I grew up with 2 dogs and a cat</p>
+		<p>Now I live with 4 cats....</p>
+		<img src="https://www.adoptapet.com/blog/uploads/2013/02/dog-cat-friends.jpg" alt="Dog and Cat Friends">
 	</body>
 </html>
