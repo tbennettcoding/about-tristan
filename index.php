@@ -12,6 +12,6 @@
 		<img src="dog-cat-friends.jpg" alt="Dog and Cat Friends">
 		</div>
 			<p>My new hobby is <em>refinishing</em> furniture</p>
-		<p> Bye for now!</p>
+		<p>Bye for now!</p>
 	</body>
 </html>
